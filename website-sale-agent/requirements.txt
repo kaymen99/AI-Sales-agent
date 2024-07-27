@@ -1,0 +1,7 @@
+litellm 
+embedchain 
+langchain-groq 
+langchain-huggingface
+stripe
+colorama
+python-dotenv
