@@ -1,0 +1,13 @@
+litellm 
+langfuse 
+langchain-groq 
+langchain-huggingface
+langchain_chroma
+chromadb
+rank_bm25
+unstructured
+pydantic 
+instructor
+stripe
+colorama
+python-dotenv
