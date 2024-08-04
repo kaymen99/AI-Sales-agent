@@ -2,6 +2,11 @@
 
 I built an AI sales agent for a computer equipement Ecommerce website, the agent will streamline the customer engagement and sales processes, by automating the process of providing **product recommendations**, **answering customers enquires**, **scheduling consultations**, and facilitating **purchases through Stripe**.
 
+<br/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c59e4b71-fd5f-4713-9097-0c076e54afa2" alt="AI Sales agent flowchart">
+</p>
+
 ## Features
 
 - **Customer Engagement**: Interact with customers in a friendly and professional manner, offering accurate information about products and services.
