@@ -1,6 +1,6 @@
-# AI Sales Chatbot
+# AI Sales Agent
 
-I built an AI sales chatbot for a computer equipement Ecommerce website, the agent will streamline the customer engagement and sales processes, by automating the process of providing product recommendations, answering potential customers enquires, scheduling consultations, and facilitating purchases through Stripe.
+I built an AI sales agent for a computer equipement Ecommerce website, the agent will streamline the customer engagement and sales processes, by automating the process of providing **product recommendations**, **answering customers enquires**, **scheduling consultations**, and facilitating **purchases through Stripe**.
 
 ## Features
 
