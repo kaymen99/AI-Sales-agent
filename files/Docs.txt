@@ -20,6 +20,8 @@ TechNerds provides warranty coverage on all products and a hassle-free return po
 ### 1. Laptops
 **Description:** Our laptops are designed to cater to a variety of needs, from gaming and professional work to everyday use. We offer models with powerful processors, high-resolution displays, and long battery life. Whether you need a lightweight ultrabook for travel or a high-performance gaming laptop, we have something for everyone.
 
+**Prices:** $500 - $2,500
+
 **Characteristics:**
 - **Processors:** Latest Intel Core i5, i7, i9, and AMD Ryzen 5, 7, 9 processors.
 - **Memory:** Options ranging from 8GB to 32GB of DDR4 RAM for smooth multitasking.
@@ -29,11 +31,9 @@ TechNerds provides warranty coverage on all products and a hassle-free return po
 - **Battery Life:** Up to 12 hours of battery life, depending on usage.
 - **Additional Features:** Backlit keyboards, fingerprint readers, Thunderbolt 3 ports, and advanced cooling systems.
 
-**Prices:** $500 - $2,500
-
 ### 2. Desktops
 **Description:** Our desktop computers are built to handle intensive tasks, from gaming and graphic design to software development. We offer customizable configurations that allow you to choose the components that best fit your needs, ensuring optimal performance for any application.
-
+**Prices:** $800 - $3,000
 **Characteristics:**
 - **Processors:** Intel Core i5, i7, i9, and AMD Ryzen 5, 7, 9 with overclocking capabilities.
 - **Memory:** Up to 64GB of DDR4 RAM for seamless multitasking and performance.
@@ -43,11 +43,9 @@ TechNerds provides warranty coverage on all products and a hassle-free return po
 - **Expandability:** Multiple PCIe slots for additional graphics cards, Wi-Fi cards, and more.
 - **Additional Features:** RGB lighting, tempered glass panels, and high-wattage power supplies.
 
-**Prices:** $800 - $3,000
-
 ### 3. Monitors
 **Description:** We offer a wide range of monitors suitable for gaming, professional work, and everyday use. Our monitors provide high resolution, fast refresh rates, and vibrant color accuracy to enhance your visual experience.
-
+**Prices:** $150 - $1,200
 **Characteristics:**
 - **Display Types:** LED, IPS, VA, and OLED panels for superior color reproduction and viewing angles.
 - **Resolutions:** Full HD (1920x1080), Quad HD (2560x1440), and 4K UHD (3840x2160) for crystal-clear images.
@@ -56,11 +54,9 @@ TechNerds provides warranty coverage on all products and a hassle-free return po
 - **Connectivity:** HDMI, DisplayPort, USB-C, and multiple USB ports for versatility.
 - **Additional Features:** Built-in speakers, VESA mount compatibility, adjustable stands, and blue light filters.
 
-**Prices:** $150 - $1,200
-
 ### 4. Keyboards
 **Description:** Our selection of keyboards includes both mechanical and membrane models, designed for gaming, typing, and professional use. Each keyboard offers unique features such as customizable RGB lighting and ergonomic designs to enhance your productivity and gaming experience.
-
+**Prices:** $50 - $200
 **Characteristics:**
 - **Types:** Mechanical with various switch types (Cherry MX, Razer, Logitech), membrane, and hybrid.
 - **Lighting:** Full RGB lighting with customizable effects and profiles.
@@ -68,11 +64,9 @@ TechNerds provides warranty coverage on all products and a hassle-free return po
 - **Connectivity:** Wired and wireless options with Bluetooth and 2.4GHz connectivity.
 - **Additional Features:** Programmable macro keys, dedicated media controls, and durable keycaps.
 
-**Prices:** $50 - $200
-
 ### 5. Mice
 **Description:** Our mice are designed for precision and comfort, catering to gamers and professionals alike. We offer a range of options including wired, wireless, and ergonomic designs to suit various preferences and needs.
-
+**Prices:** $30 - $150
 **Characteristics:**
 - **Sensor Types:** Optical and laser sensors with high DPI settings (up to 16,000 DPI).
 - **Designs:** Ergonomic shapes, ambidextrous options, and customizable weights.
@@ -80,11 +74,9 @@ TechNerds provides warranty coverage on all products and a hassle-free return po
 - **Connectivity:** Wired USB, wireless with 2.4GHz and Bluetooth options.
 - **Additional Features:** RGB lighting, high polling rates, and durable switches rated for millions of clicks.
 
-**Prices:** $30 - $150
-
 ### 6. Graphics Cards
 **Description:** Our graphics cards are perfect for gamers, graphic designers, and professionals requiring high-performance visual computing. We offer the latest models from top brands, ensuring excellent performance and reliability.
-
+**Prices:** $200 - $1,500
 **Characteristics:**
 - **Chipsets:** NVIDIA GeForce RTX 30 series and AMD Radeon RX 6000 series.
 - **Memory:** Options ranging from 4GB to 24GB of GDDR6/GDDR6X memory.
@@ -92,11 +84,9 @@ TechNerds provides warranty coverage on all products and a hassle-free return po
 - **Connectivity:** Multiple HDMI, DisplayPort, and USB-C outputs for multi-monitor setups.
 - **Additional Features:** Ray tracing, AI-enhanced graphics, and overclocking capabilities.
 
-**Prices:** $200 - $1,500
-
 ### 7. Storage Devices
 **Description:** Our storage solutions include both SSDs and HDDs, providing reliable and fast options for all your storage needs. We offer internal and external drives, ensuring you have the right solution for data storage and transfer.
-
+**Prices:** $50 - $500
 **Characteristics:**
 - **Types:** SATA SSDs, NVMe M.2 SSDs, and traditional HDDs.
 - **Capacities:** Ranging from 256GB to 2TB for SSDs and 1TB to 4TB for HDDs.
@@ -104,11 +94,9 @@ TechNerds provides warranty coverage on all products and a hassle-free return po
 - **Form Factors:** 2.5-inch, 3.5-inch, and M.2 form factors for various applications.
 - **Durability:** Shock-resistant, vibration-resistant, and high MTBF ratings.
 
-**Prices:** $50 - $500
-
 ### 8. Networking Equipment
 **Description:** Our networking equipment includes routers, switches, and Wi-Fi extenders, designed to provide fast and reliable internet connectivity for homes and offices. We offer solutions that cater to both basic and advanced networking needs.
-
+**Prices:** $20 - $300
 **Characteristics:**
 - **Routers:** Dual-band and tri-band routers with speeds up to 10Gbps, MU-MIMO, and QoS features.
 - **Switches:** Managed and unmanaged switches with multiple ports (5, 8, 16, 24).
@@ -116,18 +104,14 @@ TechNerds provides warranty coverage on all products and a hassle-free return po
 - **Security:** Advanced security features including firewalls, VPN support, and parental controls.
 - **Additional Features:** Easy setup, mobile app control, and firmware updates.
 
-**Prices:** $20 - $300
-
 ### 9. Accessories
 **Description:** We offer a wide range of computer accessories to enhance your computing experience. From cooling solutions to cables and adapters, our accessories are designed for compatibility and reliability.
-
+**Prices:** $10 - $100
 **Characteristics:**
 - **Cooling Solutions:** CPU coolers, case fans, and thermal paste for efficient heat management.
 - **Cables:** HDMI, DisplayPort, Ethernet, USB, and power cables in various lengths and specifications.
 - **Adapters:** USB hubs, docking stations, and converters for various connectivity needs.
 - **Additional Features:** High-quality materials, durability, and compatibility with multiple devices.
-
-**Prices:** $10 - $100
 
 # Frequently Asked Questions (FAQ)
 

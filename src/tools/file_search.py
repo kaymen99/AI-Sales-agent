@@ -15,12 +15,10 @@ def load_retriever():
     vectorstore_retreiver = vectorstore.as_retriever(search_kwargs={"k": 3})
 
     template = """
-    Your are an assistant at TechNerds.
-    TechNerds's business is about: Selling high-quality computer equipment, including laptops, desktops, monitors, keyboards, etc.
-    Your goal is to provide accurate information about our products and services. 
-    Use the following pieces of retrieved context to answer the question. 
-    Do not mention having access to context in your output.
-    If you don't know the answer, just say that I don't know.
+    Using the following pieces of retrieved context, answer the question comprehensively and concisely.
+    Ensure your response fully addresses the question based on the given context.
+    Do not mention or refer to having access to the context in your answer.
+    If you are unable to determine the answer from the provided context, state 'I don't know.'
     Question: {question}
     Context: {context}
     """

@@ -1,5 +1,6 @@
 litellm 
 langfuse 
+langchain_community
 langchain-groq 
 langchain-huggingface
 langchain_chroma

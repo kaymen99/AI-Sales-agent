@@ -1,8 +1,7 @@
 import sqlite3
 from pydantic import Field
 from .base_tool import BaseTool
-from src.agents.agent import PatchLiteLLM
-from src.agents.models import models_list
+from litellm import completion
 
 
 def get_product_recommendation(product_category, user_query):
@@ -83,8 +82,7 @@ def get_product_recommendation(product_category, user_query):
     ]
 
     # Request to the AI agent to generate the SQL query
-    client = PatchLiteLLM(models_list)
-    response = client.completion(
+    response = completion(
         model="groq/mixtral-8x7b-32768", messages=messages, temperature=0.1
     )
 
