@@ -1,3 +1,15 @@
+<!--
+Title: AI Sales Agent for Computer Equipment Ecommerce | Automated Customer Engagement & Sales
+Description: Enhance your computer equipment Ecommerce with an AI sales agent. Automate customer engagement, product recommendations, consultation scheduling, and Stripe payment facilitation.
+Keywords: AI Sales Agent, Ecommerce, Customer Support and assistance, Product Recommendations, Consultation Scheduling, Stripe Payments, AI Automated Sales, Python, AI Agents, AI Tools, Calendly Integration.
+Author: kaymen99
+-->
+
+<meta name="title" content="AI Sales Agent for Computer Equipment Ecommerce Store | AI Automated Customer Sales">
+<meta name="description" content="Enhance your Ecommerce store with an AI sales agent. Automate customer assistance and support, product recommendations, Calendly consultation scheduling, and Stripe payment facilitation.">
+<meta name="keywords" content="AI Sales Agent, Ecommerce, Customer Support and assistance, Product Recommendations, Consultation Scheduling, Stripe Payments, AI Automated Sales, Python, AI Agents, AI Tools, Calendly Integration">
+<meta name="author" content="kaymen99">
+
 # AI Sales Agent
 
 I built an AI sales agent for a computer equipement Ecommerce website, the agent will streamline the customer engagement and sales processes, by automating the process of providing **product recommendations**, **answering customers enquires**, **scheduling consultations**, and facilitating **purchases through Stripe**.
