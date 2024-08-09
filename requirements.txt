@@ -1,6 +1,6 @@
 litellm 
 langfuse 
-langchain_community
+langchain_community==0.2.10
 langchain-groq 
 langchain-huggingface
 langchain_chroma

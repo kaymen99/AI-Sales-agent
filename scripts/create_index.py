@@ -9,6 +9,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_groq import ChatGroq
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
+from src.prompts.prompts import RAG_SEARCH_PROMPT_TEMPLATE
 from dotenv import load_dotenv
 
 # Load environment variables from a .env file
@@ -40,15 +41,7 @@ ensemble_retriever = EnsembleRetriever(
     retrievers=[vectorstore_retreiver, keyword_retriever], weights=[0.3, 0.7]
 )
 
-template = """
-Using the following pieces of retrieved context, answer the question comprehensively and concisely.
-Ensure your response fully addresses the question based on the given context.
-Do not mention or refer to having access to the context in your answer.
-If you are unable to determine the answer from the provided context, state 'I don't know.'
-Question: {question}
-Context: {context}
-"""
-prompt = ChatPromptTemplate.from_template(template)
+prompt = ChatPromptTemplate.from_template(RAG_SEARCH_PROMPT_TEMPLATE)
 
 llm = ChatGroq(model="llama3-70b-8192", api_key=os.getenv("GROQ_API_KEY"))
 

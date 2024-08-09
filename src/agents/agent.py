@@ -25,7 +25,6 @@ class Agent:
         self.tools_schemas = self.get_openai_tools_schema() if self.tools else None
         self.system_prompt = system_prompt
         if self.system_prompt and not self.messages:
-            print("adding system prompt again")
             self.handle_messages_history("system", self.system_prompt)
 
     def invoke(self, message):
@@ -47,10 +46,8 @@ class Agent:
 
         # If there are tool calls, invoke them
         if tool_calls:
-            try:
-                response_message = self.run_tools(tool_calls)
-            except Exception as e:
-                print(Fore.RED + f"\nError: {e}\n")
+            response_message = self.run_tools(tool_calls)
+            
         return response_message.content
 
     def run_tools(self, tool_calls):
@@ -69,10 +66,7 @@ class Agent:
 
         # If the AI decided to invoke a tool again, invoke it
         if tool_calls:
-            try:
-                response_message = self.run_tools(tool_calls)
-            except Exception as e:
-                print(Fore.RED + f"\nError: {e}\n")
+            response_message = self.run_tools(tool_calls)
 
         return response_message
 
