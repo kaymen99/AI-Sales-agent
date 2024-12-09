@@ -96,4 +96,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at `aymenMir10001@gmail.com`.
+If you have any questions or suggestions, feel free to contact me at `aymenMir1001@gmail.com`.
